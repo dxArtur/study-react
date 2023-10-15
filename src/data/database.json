@@ -1,0 +1,12 @@
+{
+    "moods": [
+        {
+            "description": "working",
+            "imgSrc": "https://i.pinimg.com/originals/7c/97/91/7c9791e071f34410bb54f7bd829b25f8.jpg"
+        },
+        {
+            "description": "little nap",
+            "imgSrc": "https://www.kevinwanke.com/wp-content/uploads/2021/06/marcel-friedrich-XC_28Kk25F0-unsplash.jpg"
+        }        
+    ]
+}

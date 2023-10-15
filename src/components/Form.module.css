@@ -1,0 +1,22 @@
+#formContainer {
+    display: none
+}
+
+#buttonAddMood{
+    display:block
+}
+
+#buttonAdd{
+    background-color: rgb(23, 150, 23);
+    border-style: none;
+    color: white;
+    border-radius: 5px;
+}
+
+#buttonClose{
+    background-color: rgb(177, 29, 29);
+    border-style: none;
+    color: white;
+    border-radius: 5px;
+}
+

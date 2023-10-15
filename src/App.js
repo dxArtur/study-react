@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import HelloWorld from './components/HelloWorld';
 import Emotional from './components/Emotional';
+import Form from './components/Form';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <HelloWorld />
         <Emotional />
+        <Form />
       </header>
     </div>
   );

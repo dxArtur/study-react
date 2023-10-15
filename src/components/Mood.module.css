@@ -1,3 +1,7 @@
-img {
+img{
     width: 350px;
+}
+
+#containerMood {
+    display: block;
 }
